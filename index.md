@@ -10,4 +10,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 [404](/404/)
 
-Latest Commit: <a href="https://github.com/steinea/fyi/commit/{{ site.env.COMMIT_REF }}">{{ site.env.COMMIT_REF | truncate: 7, ""}}
+Latest Commit: <a href="https://github.com/steinea/fyi/commit/{{ site.env.COMMIT_REF }}">{{ site.env.COMMIT_REF | truncate: 7, ""}}</a>
