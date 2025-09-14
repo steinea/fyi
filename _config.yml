@@ -1,0 +1,29 @@
+# About
+title: Eric Stein
+name: Eric Stein
+email: steinea@protonmail.com
+description: >-
+  hCard and Verify pages for Eric Stein.
+url: https://steinea.fyi
+bluesky_username: steinea.bsky.social
+github_username: steinea
+
+# Build
+plugins:
+  - jekyll_custom_permalink
+  - jekyll-environment-variables
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Defaults
+defaults:
+  - scope:
+      path: ''
+      type: pages
+    values:
+      permalink: /:basename/
+  - scope:
+      path: ''
+      type: posts
+    values:
+      permalink: /:year/:month/:day/:title/
