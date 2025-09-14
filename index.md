@@ -18,12 +18,16 @@ permalink: /
 
 *Under construction.*
 
+Built to m15o's [HTML Journal](https://journal.miso.town/) spec.
+
 <br>
 
 
 #### Now
 
 *Under construction.*
+
+Modelled on Derek Sivers's [Now](https://nownownow.com/about).
 
 <br>
 
@@ -32,12 +36,16 @@ permalink: /
 
 *Under construction.*
 
+Modelled on [Slash Pages](https://slashpages.net/).
+
 <br>
 
 
 #### Verify
 
 *Under construction.*
+
+Modelled on Molly White's [Verify](https://www.mollywhite.net/verify/).
 
 <br>
 
