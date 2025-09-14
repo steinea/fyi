@@ -1,0 +1,85 @@
+/* Root */
+
+:root {
+  color-scheme: light dark;
+}
+
+
+/* Body CSS applies at all resolutions */
+body {
+  background-color: light-dark(#fafafa, #151515);
+  box-sizing: content-box;
+  color: light-dark(#151515, #fafafa);
+  /* Font Stack https://bitsofco.de/the-new-system-font-stack/ */
+  font-family: -apple-system,
+             BlinkMacSystemFont,
+             "Segoe UI",
+             Roboto,
+             Helvetica,
+             Arial,
+             sans-serif,
+             "Apple Color Emoji",  /* Emojis*/
+             "Segoe UI Emoji", /* Emojis*/
+             "Segoe UI Symbol"; /* Emojis*/
+  font-size: 1rem;
+  line-height: 1.7;
+  margin: 0 auto;
+  overflow-x: hidden;
+  padding: 4vh 6vw;
+  max-width: 50em;
+}
+
+
+/* Media Queries */
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+  body {
+    font-size: 1.2rem;
+  }
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+  body {
+    font-size: 1.4rem;
+  }
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+  body {
+    font-size: 1.6rem;
+  }
+
+}
+
+
+/* Links https://stackoverflow.com/questions/26898931/ */
+
+/* Internal Link */
+a:not([href*='//']) {
+  color: light-dark(#151515, #fafafa);
+  text-decoration-style: dotted;
+}
+
+/* External Link */
+a[href*='//'] {
+  color: light-dark(#151515, #fafafa);
+  text-decoration-style: wavy;
+}
