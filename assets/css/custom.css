@@ -42,6 +42,13 @@ a[href*='//']:after {
 /* Light vs Dark Preference */
 /* Using media queries because root color scheme does not seem to work for styling pseudo-classes or pseudo-elements */
 
+
+hr {
+  border: none;
+  height: 1px;
+}
+
+
 @media (prefers-color-scheme: light) {
 
   body {
@@ -73,6 +80,10 @@ a[href*='//']:after {
   ::selection {
     background-color: #151515;
     color: #fafafa;
+  }
+
+  hr {
+    background-color: #151515;
   }
 
 }
@@ -109,6 +120,10 @@ a[href*='//']:after {
   ::selection {
     background-color: #fafafa;
     color: #151515;
+  }
+
+  hr {
+    background-color: #fafafa;
   }
 
 }
