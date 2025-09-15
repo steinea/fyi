@@ -44,7 +44,9 @@ I control and have [claimed](https://keyoxide.org/B5B0AA7ED4509C8B "Keyoxide") t
 
 <p>I control the identities listed below. If there is an identity that claims to be me that is not on this list, check with one of my verified identities on another platform first before connecting with the unclaimed identity.</p>
 
-<!-- GitHub, GitLab, and PGP are currently supported IndieAuth providers -->
+<!-- GitHub, GitLab, Codeberg, PGP, and Email are currently supported IndieAuth providers -->
+<!-- https://indieauth.com/setup -->
+<!-- https://indielogin.com/setup -->
 
 <blockquote>
   <a href="https://twu.academia.edu/steinea" class="u-url" rel="me">Academia</a>,
