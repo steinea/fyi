@@ -43,9 +43,7 @@ Modelled on [Slash Pages](https://slashpages.net/).
 
 #### Verify
 
-*Under construction.*
-
-Modelled on Molly White's [Verify](https://www.mollywhite.net/verify/).
+{% include verify.md %}
 
 <br>
 
