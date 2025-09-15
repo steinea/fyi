@@ -25,9 +25,9 @@ Built to m15o's [HTML Journal](https://journal.miso.town/) spec.
 
 #### Now
 
-*Under construction.*
+{% include now.html %}
 
-Modelled on Derek Sivers's [Now](https://nownownow.com/about).
+_[Previously...](/now/)_
 
 <br>
 
