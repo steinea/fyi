@@ -49,7 +49,6 @@ I control and have [claimed](https://keyoxide.org/B5B0AA7ED4509C8B "Keyoxide") t
 <!-- https://indielogin.com/setup -->
 
 <blockquote>
-  <a href="https://twu.academia.edu/steinea" class="u-url" rel="me">Academia</a>,
   <a href="https://archive.org/details/@steinea" class="u-url" rel="me">Archive</a>,
   Atlassian,
   <a href="https://www.backloggd.com/u/steinea/" class="u-url" rel="me">Backloggd</a>,
@@ -96,6 +95,12 @@ I control and have [claimed](https://keyoxide.org/B5B0AA7ED4509C8B "Keyoxide") t
   <a href="https://www.youtube.com/@steinea" class="u-url" rel="me">YouTube</a>,
   <a href="https://www.zotero.org/steinea" class="u-url" rel="me">Zotero</a>
 </blockquote>
+
+<p>Identities I previously controlled but have deleted are listed below. This list provides a reference for formerly canonical links that may still exist online but are no longer accessible.</p>
+
+<blockquote>
+  <a href="https://twu.academia.edu/steinea" class="u-url" rel="me">Academia</a> (<a href="https://bsky.app/profile/steinea.bsky.social/post/3lz77nnugtc2u">deleted</a>)
+</blockquote>  
 
 <!-- Endpoint link required to for authenticating with IndieAuth from other sites -->
 <link rel="authorization_endpoint" href="https://indieauth.com/auth">
