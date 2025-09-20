@@ -4,7 +4,9 @@ title: Hello, World!
 permalink: /
 ---
 
-{% include blurb.md %}
+{% include about.html %}
+
+_[Previously...](/about/)_
 
 <br>
 
@@ -36,9 +38,7 @@ _[Previously...](/now/)_
 
 #### Slashes
 
-*Under construction.*
-
-Modelled on [Slash Pages](https://slashpages.net/).
+{% include slashes.md %}
 
 <br>
 
