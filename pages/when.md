@@ -4,13 +4,14 @@ title: When
 permalink: /when/
 ---
 
-* My [eon](https://en.wikipedia.org/wiki/Geologic_time_scale#Divisions_of_geologic_time) is the Phanerozoic
-* My [era](https://en.wikipedia.org/wiki/Geologic_time_scale#Divisions_of_geologic_time) is the Cenozoic
-* My [period](https://en.wikipedia.org/wiki/Geologic_time_scale#Divisions_of_geologic_time) is the Quaternary
-* My [epoch](https://en.wikipedia.org/wiki/Epoch) is the Holocene
-* My [age](https://en.wikipedia.org/wiki/Geologic_time_scale#Divisions_of_geologic_time) is the Meghalayan
-* My [millenium](https://en.wikipedia.org/wiki/Millennium) is the 2nd
-* My [century](https://en.wikipedia.org/wiki/Century) is the 20th
-* My [decade](https://en.wikipedia.org/wiki/Decade) is the 1990s
+* My eon is the [Phanerozoic](https://en.wikipedia.org/wiki/Phanerozoic)
+* My era is the [Cenozoic](https://en.wikipedia.org/wiki/Cenozoic)
+* My period is the [Quaternary](https://en.wikipedia.org/wiki/Quaternary)
+* My epoch is the [Holocene](https://en.wikipedia.org/wiki/Holocene)
+* My age is the [Meghalayan](https://en.wikipedia.org/wiki/Meghalayan)
+* My millenium is the [Second](https://en.wikipedia.org/wiki/2nd_millennium)
+* My century is the [Twentieth](https://en.wikipedia.org/wiki/20th_century)
+* My decade is the [Nineties](https://en.wikipedia.org/wiki/1990s)
+* My generation is the [Millenial](https://en.wikipedia.org/wiki/Millennials)
 
-*Related to [Where](/where/).*
+*Related to [What](/what/), [Where](/where/). See also [ICC](https://stratigraphy.org/chart/).*
