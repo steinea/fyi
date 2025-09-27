@@ -4,15 +4,15 @@ title: Where
 permalink: /where/
 ---
 
-* My [filament](https://en.wikipedia.org/wiki/Galaxy_filament) is the Pisces-Cetus Supercluster Complex
-* My [supercluster](https://en.wikipedia.org/wiki/Supercluster) is the Laniakea Supercluster
-* My [group](https://en.wikipedia.org/wiki/Galaxy_group) is the Local Group
-* My [galaxy](https://en.wikipedia.org/wiki/Milky_Way) is the Milky Way
-* My [arm](https://en.wikipedia.org/wiki/Spiral_arm) is the Orion-Cygnus Arm
-* My [system](https://en.wikipedia.org/wiki/Planetary_system) is the Solar System
-* My [planet](https://en.wikipedia.org/wiki/Planet) is the Earth
-* My [plate](https://en.wikipedia.org/wiki/List_of_tectonic_plates) is the North American Plate
-* My [bioregion](https://en.wikipedia.org/wiki/Bioregionalism) is Cascadia
-* My [corridor](https://books.google.ca/books/about/Corridor_Ecology.html?id=ivCgEvai0MYC) is the Fraser Valley
+* My filament is the [Pisces-Cetus Supercluster Complex](https://en.wikipedia.org/wiki/Pisces%E2%80%93Cetus_Supercluster_Complex)
+* My supercluster is the [Laniakea Supercluster](https://en.wikipedia.org/wiki/Laniakea_Supercluster)
+* My group is the [Local Group](https://en.wikipedia.org/wiki/Local_Group)
+* My galaxy is the [Milky Way](https://en.wikipedia.org/wiki/Milky_Way)
+* My arm is the [Orion-Cygnus Arm](https://en.wikipedia.org/wiki/Orion_Arm)
+* My system is the [Solar System](https://en.wikipedia.org/wiki/Solar_System)
+* My planet is the [Earth](https://en.wikipedia.org/wiki/Earth)
+* My plate is the [North American Plate](https://en.wikipedia.org/wiki/North_American_plate)
+* My bioregion is [Cascadia](https://en.wikipedia.org/wiki/Cascadia_(bioregion))
+* My corridor is the [Fraser Valley](https://en.wikipedia.org/wiki/Fraser_Valley)
 
-*Related to [When](/when/).*
+*Related to [What](/what/), [When](/when/). See also [IAU](https://iauarchive.eso.org/public/themes/naming/).*
