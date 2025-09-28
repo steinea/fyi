@@ -7,6 +7,8 @@ permalink: /preferences/
 * [Autumn](https://en.wikipedia.org/wiki/Autumn), [September](https://en.wikipedia.org/wiki/September)
 * [Syrah](https://en.wikipedia.org/wiki/Syrah), [Bordeaux](https://en.wikipedia.org/wiki/Bordeaux_wine)
 * [Dark](https://en.wikipedia.org/wiki/Lager#Dark_lager), [Sour](https://en.wikipedia.org/wiki/Sour_beer), [Stout](https://en.wikipedia.org/wiki/Stout)
+* [Medium](https://en.wikipedia.org/wiki/Coffee_roasting), [Black](https://en.wikipedia.org/wiki/Coffee#Serving), [Flat White](https://en.wikipedia.org/wiki/Flat_white)
+* [Oatmeal Raisin](https://en.wikipedia.org/wiki/Oatmeal_raisin_cookie)
 * [Pepperoni](https://en.wikipedia.org/wiki/Pizza)
 * [Science Fiction](https://en.wikipedia.org/wiki/Science_fiction)
 * [Continental Philosophy](https://en.wikipedia.org/wiki/Continental_philosophy)
