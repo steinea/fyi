@@ -14,6 +14,6 @@ redirect_from:
 * [We are habits, nothing but habits.](https://cup.columbia.edu/book/empiricism-and-subjectivity/9780231068130/ "Deleuze, 1953, p. x")
 * [We can always play backgammon.](https://cup.columbia.edu/book/empiricism-and-subjectivity/9780231068130/ "Deleuze, 1953, p. 34")
 * [There are only bodies and languages, except that there are truths.](https://www.lacan.com/badbodies.htm "Badiou, 2006")
-* [Technology beats commodities.](https://rmi.org/technologies-beat-commodities/ "Kingsmill Bond, 2024")
+* [Technologies beats commodities.](https://rmi.org/technologies-beat-commodities/ "Kingsmill Bond, 2024")
 
 *Related to [Questions](/questions/).*
