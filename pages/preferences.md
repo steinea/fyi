@@ -15,7 +15,7 @@ permalink: /preferences/
 * [Android](https://en.wikipedia.org/wiki/Android_(operating_system)), [Samsung](https://en.wikipedia.org/wiki/Samsung)
 * [PC](https://en.wikipedia.org/wiki/Personal_computer)
 * [PlayStation](https://en.wikipedia.org/wiki/PlayStation)
-* [Hoka](https://en.wikipedia.org/wiki/Hoka_(brand))
+* [Hoka](https://en.wikipedia.org/wiki/Hoka_(brand)), [Clifton](https://www.hoka.com/en/ca/clifton/)
 * [Milwaukee](https://en.wikipedia.org/wiki/Milwaukee_Tool)
 * [Honda](https://en.wikipedia.org/wiki/Honda), [Mazda](https://en.wikipedia.org/wiki/Mazda)
 
