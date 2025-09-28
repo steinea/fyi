@@ -17,4 +17,4 @@ permalink: /blogroll/
 
 *To do: Add [OPML](https://opml.org/spec2.opml), [XFN](https://gmpg.org/xfn/11) markup.*
 
-*Related to [Podroll](/podroll/), [Postroll](/postroll/).*
+*Related to Linkroll, [Podroll](/podroll/), [Postroll](/postroll/), Tuberoll.*

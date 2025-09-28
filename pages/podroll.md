@@ -26,4 +26,4 @@ permalink: /podroll/
 * [Volts](https://www.volts.wtf/podcast)
 
 
-*Related to [Blogroll](/blogroll/), [Postroll](/postroll/).*
+*Related to [Blogroll](/blogroll/), Linkroll, [Postroll](/postroll/), Tuberoll.*
