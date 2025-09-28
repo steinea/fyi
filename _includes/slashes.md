@@ -1,18 +1,19 @@
 These are my [Slash Pages](https://slashpages.net/):
 
-> [About](/about/), [AI](/ai/), [Blank](/blank/), [Blogroll](/blogroll/), [Colophon](/colophon/), [Commitments](/commitments/), [Defaults](/defaults/), [Elsewhere](/elsewhere/), [Favourites](/favourites/), [Hosted](/hosted/), [Interests](/interests/), [Now](/now/), [Podroll](/podroll/), [Preferences](/preferences/), [Questions](/questions/), [Slashes](/slashes/), [Verify](/verify/), [What](/what/), [When](/when/), [Where](/where/)
+> [About](/about/), [AI](/ai/), [Blank](/blank/), [Blogroll](/blogroll/), Changes, [Colophon](/colophon/), [Commitments](/commitments/), Death, [Defaults](/defaults/), [Elsewhere](/elsewhere/), [Favourites](/favourites/), Follow, Guy, Hello, [Hosted](/hosted/), How, Ideas, [Interests](/interests/), Linkroll, Never, Next, Nope, [Now](/now/), [Podroll](/podroll/), Postroll, [Preferences](/preferences/), [Questions](/questions/), Shoebox, [Slashes](/slashes/), Someday, Tip, [Verify](/verify/), Uses, Who, [What](/what/), [When](/when/), [Where](/where/), Why, Wish, Yep
 
+
+<!-- To consider
+  Carry
+  Green
+  Junk
+  Pfp
+-->
 
 <!--
-
-Carry
-Changelog, log
-Chipotle
-Contact
-Death
-Follow
-Green
-Guy
-Hello
-Ideas
---> 
+  Robots redirects to AI
+  Hills redirects to Commitments
+  Canon redirects to Favourites
+  Posse redirects to Hosted
+  Chipotle redirects to Preferences
+-->
