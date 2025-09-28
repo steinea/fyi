@@ -16,3 +16,5 @@ permalink: /blogroll/
 * [Terence Blake](https://terenceblake.wordpress.com/)
 
 *To do: Add [OPML](https://opml.org/spec2.opml), [XFN](https://gmpg.org/xfn/11) markup.*
+
+*Related to [Podroll](/podroll/), [Postroll](/postroll/).*
