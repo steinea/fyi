@@ -8,3 +8,5 @@ permalink: /questions/
 * [What is to be done?](https://www.marxists.org/archive/lenin/works/1901/witbd/ "Lenin, 1902")
 * [What is the purpose of a system?](https://en.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does "Beer, 2002")
 * [How should the real be structured so that it allows for the emergence of subjectivity?](https://books.google.ca/books?id=XxYQCoaEU7AC "Zizek, 2012")
+
+*Related to [Commitments](/commitments/).*
