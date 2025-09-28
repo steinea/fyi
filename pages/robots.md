@@ -4,4 +4,4 @@ title: Robots
 permalink: /robots/
 ---
 
-Merged with [AI](/ai/).
+Redirects to [AI](/ai/).

@@ -2,6 +2,8 @@
 layout: default
 title: AI
 permalink: /ai/
+redirect_from:
+  - /robots/
 ---
 
 This site is [human made](https://hinokodo.itch.io/human-made). I am a [humanist](https://en.wikipedia.org/wiki/Humanism) by training, and this and my other websites are exercises in making things as a human, for other humans.
