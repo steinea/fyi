@@ -6,8 +6,9 @@ gem "jekyll", "~> 4.4.1"
 # Plugins
 group :jekyll_plugins do
   gem "jekyll_custom_permalink", "~> 0.0"
-  gem 'jekyll-environment-variables'
+  gem "jekyll-environment-variables"
   gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-redirect-from"
   gem "jekyll-sitemap", "~> 1.4"
 end
 
