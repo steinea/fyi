@@ -14,4 +14,6 @@ permalink: /when/
 * My decade is the [Nineties](https://en.wikipedia.org/wiki/1990s)
 * My generation is the [Millenial](https://en.wikipedia.org/wiki/Millennials)
 
-*Related to [What](/what/), [Where](/where/). See also [ICC](https://stratigraphy.org/chart/).*
+*Related to Who, [What](/what/), [Where](/where/), Why.*
+
+<!--  See also [ICC](https://stratigraphy.org/chart/) -->

@@ -15,4 +15,6 @@ permalink: /where/
 * My bioregion is [Cascadia](https://en.wikipedia.org/wiki/Cascadia_(bioregion))
 * My corridor is the [Fraser Valley](https://en.wikipedia.org/wiki/Fraser_Valley)
 
-*Related to [What](/what/), [When](/when/). See also [IAU](https://iauarchive.eso.org/public/themes/naming/).*
+*Related to Who, [What](/what/), [When](/when/), Why.*
+
+<!--  See also [IAU](https://iauarchive.eso.org/public/themes/naming/) -->

@@ -13,4 +13,6 @@ permalink: /what/
 * My genus is [Homo](https://en.wikipedia.org/wiki/Homo)
 * My species is [Homo sapiens](https://en.wikipedia.org/wiki/Human)
 
-*Related to [When](/when/), [Where](/where/). See also [ICZN](https://code.iczn.org/).*
+*Related to Who, [When](/when/), [Where](/where/), Why.*
+
+<!-- See also [ICZN](https://code.iczn.org/). -->
