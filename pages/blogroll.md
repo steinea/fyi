@@ -12,6 +12,7 @@ permalink: /blogroll/
 * [e-flux](https://www.e-flux.com/)
 * [Endnotes](https://endnotes.org.uk/)
 * [Ill Will](https://illwill.com/)
+* [Jacobin](https://jacobin.com/)
 * [New Left Review](https://newleftreview.org/)
 * [New York Review of Books](https://www.nybooks.com/)
 * [No Escape](https://noescapevg.com/)
