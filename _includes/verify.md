@@ -69,7 +69,7 @@ I control and have [claimed](https://keyoxide.org/B5B0AA7ED4509C8B "Keyoxide") t
   <a href="https://hsscommons.ca/members/1174/" class="u-url" rel="me">HSS Commons</a>,
   <a href="https://igda.peoplegrove.com/hub/igda/profile/ericstein" class="u-url" rel="me">IGDA</a>,
   <a href="https://indieweb.org/User:Www.steinea.ca" class="u-url" rel="me">IndieWeb</a>,
-  <a href="https://steinea.itch.io" class="u-url" rel="me">itch.io</a>,
+  <a href="https://vagrantludology.itch.io" class="u-url" rel="me">itch.io</a>,
   <a href="https://keybase.io/steinea/" class="u-url" rel="me">Keybase</a>,
   <a href="https://keyoxide.org/B5B0AA7ED4509C8B" class="u-url" rel="me">Keyoxide</a>,
   <a href="https://www.kickstarter.com/profile/vagrantludology/created" class="u-url" rel="me">Kickstarter</a>,
