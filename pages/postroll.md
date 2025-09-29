@@ -5,7 +5,7 @@ permalink: /postroll/
 ---
 
 * "[Image is the Measure](https://terenceblake.wordpress.com/2020/04/15/image-is-the-measure-notes-on-incommensurability-and-the-dream/ "Blake 1984")"
-* "[Ur-Fascism](https:// www.nybooks.com/articles/1995/06/22/ur-fascism/ "Eco 1995")"
+* "[Ur-Fascism](https://www.nybooks.com/articles/1995/06/22/ur-fascism/ "Eco 1995")"
 * "[Mondialisation Without the World](https://www.radicalphilosophy.com/interview/kostas-axelos-mondialisation-without-the-world "Axelos 2005")"
 * "[The Position of the Problem of Ontogenesis](https://parrhesiajournal.org/past-issues/ "Simondon 2009")"
 * "[Reclaiming Animism](https://www.e-flux.com/journal/36/61245/reclaiming-animism "Stengers 2012")"
