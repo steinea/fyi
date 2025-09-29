@@ -86,5 +86,4 @@ permalink: /interests/
 [Vision](https://en.wikipedia.org/wiki/Visual_perception),
 [War](https://en.wikipedia.org/wiki/War)
 
-
 *Related to [Favourites](/favourites/), [Preferences](/preferences/).*
