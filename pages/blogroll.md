@@ -13,6 +13,8 @@ permalink: /blogroll/
 * [Endnotes](https://endnotes.org.uk/)
 * [Ill Will](https://illwill.com/)
 * [Jacobin](https://jacobin.com/)
+* [London Review of Books](https://www.lrb.co.uk/)
+* [Los Angeles Review of Books](https://lareviewofbooks.org/)
 * [New Left Review](https://newleftreview.org/)
 * [New York Review of Books](https://www.nybooks.com/)
 * [No Escape](https://noescapevg.com/)
