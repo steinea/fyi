@@ -4,6 +4,7 @@ title: Postroll
 permalink: /postroll/
 ---
 
+* "[Between Peasants](https://theanarchistlibrary.org/library/errico-malatesta-between-peasants "Malatesta 1884")"
 * "[Image is the Measure](https://terenceblake.wordpress.com/2020/04/15/image-is-the-measure-notes-on-incommensurability-and-the-dream/ "Blake 1984")"
 * "[Ur-Fascism](https://www.nybooks.com/articles/1995/06/22/ur-fascism/ "Eco 1995")"
 * "[Mondialisation Without the World](https://www.radicalphilosophy.com/interview/kostas-axelos-mondialisation-without-the-world "Axelos 2005")"
