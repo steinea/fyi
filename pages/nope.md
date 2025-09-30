@@ -5,6 +5,7 @@ permalink: /nope/
 ---
 
 * Crowds
+* Heat
 * Spiders
 
 *Related to [Yep](/yep/).*
