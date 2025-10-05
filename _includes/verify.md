@@ -5,7 +5,7 @@ I own and control the following domains:
 <p>
   <ul>
     <li><a href="/" class="u-url" rel="me">steinea.fyi</a></li>
-    <li><a href="" class="u-url" rel="me">steinea.xyz</a></li>
+    <li><a href="https://steinea.xyz" class="u-url" rel="me">steinea.xyz</a></li>
     <li><a href="https://steinea.work" class="u-url" rel="me">steinea.work</a></li>
     <li><a href="https://steinea.ca" class="u-url" rel="me">steinea.ca</a></li>
   </ul>
