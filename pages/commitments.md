@@ -14,6 +14,7 @@ redirect_from:
 * [We are habits, nothing but habits.](https://cup.columbia.edu/book/empiricism-and-subjectivity/9780231068130/ "Deleuze 1953, p. x")
 * [We can always play backgammon.](https://cup.columbia.edu/book/empiricism-and-subjectivity/9780231068130/ "Deleuze 1953, p. 34")
 * [There are only bodies and languages, except that there are truths.](https://www.lacan.com/badbodies.htm "Badiou 2006")
+* [Games are for everyone.](https://weheart.github.io/ "Zecher 2014")
 * [Whales are people.](https://thewalrus.ca/whales-are-people-too/ "Bourgon 2019")
 * [Technologies beat commodities.](https://rmi.org/technologies-beat-commodities/ "Bond 2024")
 
