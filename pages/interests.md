@@ -25,6 +25,7 @@ permalink: /interests/
 [Amplituhedrons](https://en.wikipedia.org/wiki/Amplituhedron),
 [Analogy](https://en.wikipedia.org/wiki/Analogy),
 [Anarchism](https://en.wikipedia.org/wiki/Anarchism),
+[Ancestrality](https://www.bloomsbury.com/ca/after-finitude-9781441173836/)
 [Angevins](https://en.wikipedia.org/wiki/Angevin_Empire),
 [Anthropology](https://en.wikipedia.org/wiki/Anthropology),
 [Anthrozoology](https://en.wikipedia.org/wiki/Anthrozoology),
