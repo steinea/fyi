@@ -11,6 +11,7 @@ permalink: /interests/
 [Action](https://en.wikipedia.org/wiki/Action_(philosophy)),
 [Activism](https://en.wikipedia.org/wiki/Activism),
 [Actor–Networks](https://en.wikipedia.org/wiki/Actor%E2%80%93network_theory),
+[Actual Play](https://en.wikipedia.org/wiki/Actual_play),
 [Adaptation](https://en.wikipedia.org/wiki/Adaptation_(arts)),
 [Aesthetics](https://en.wikipedia.org/wiki/Aesthetics),
 [Affect](https://en.wikipedia.org/wiki/Affect_(philosophy)),
@@ -34,7 +35,7 @@ permalink: /interests/
 [Architecture](https://en.wikipedia.org/wiki/Architecture),
 [Archives](https://en.wikipedia.org/wiki/Archive),
 [Assemblage](https://en.wikipedia.org/wiki/Assemblage_(philosophy)),
-[Assemblism](https://en.wikipedia.org/wiki/Syrian_Kurdistan),
+[Assemblism](https://www.e-flux.com/journal/80/100465/assemblism),
 [Assembly](https://en.wikipedia.org/wiki/Assembly),
 [Astronautics](https://en.wikipedia.org/wiki/Astronautics),
 [Astronomy](https://en.wikipedia.org/wiki/Astronomy),
@@ -63,6 +64,7 @@ permalink: /interests/
 [Black Holes](https://en.wikipedia.org/wiki/Black_hole),
 [Blanquism](https://en.wikipedia.org/wiki/Blanquism),
 [Body Schema](https://en.wikipedia.org/wiki/Body_schema),
+[Bonapartes](https://en.wikipedia.org/wiki/House_of_Bonaparte),
 [Books](https://en.wikipedia.org/wiki/Book),
 [Brownian Motion](https://en.wikipedia.org/wiki/Brownian_motion),
 [Business Cycles](https://en.wikipedia.org/wiki/Business_cycle)
@@ -73,6 +75,7 @@ permalink: /interests/
 [Capitalism](https://en.wikipedia.org/wiki/Capitalism),
 [Carolingians](https://en.wikipedia.org/wiki/Carolingian_dynasty),
 [Cartography](https://en.wikipedia.org/wiki/Cartography),
+[Categories](https://en.wikipedia.org/wiki/Category_theory),
 [Celts](https://en.wikipedia.org/wiki/Celts),
 [Cetology](https://en.wikipedia.org/wiki/Cetology),
 [Chaos](https://en.wikipedia.org/wiki/Canada),
@@ -91,6 +94,7 @@ permalink: /interests/
 [Codices](https://en.wikipedia.org/wiki/Codex),
 [Cognition](https://en.wikipedia.org/wiki/Cognition),
 [Cognitivism](https://en.wikipedia.org/wiki/Cognitivism_(psychology)),
+[Collapse Computing](https://wiki.xxiivv.com/site/collapse_computing.html),
 [Combinatorics](https://en.wikipedia.org/wiki/Combinatorics),
 [Combinatory Logic](https://en.wikipedia.org/wiki/Combinatory_logic),
 [Commonplaces](https://en.wikipedia.org/wiki/Commonplace_book),
@@ -138,8 +142,11 @@ permalink: /interests/
 [Deindustrialisation](https://en.wikipedia.org/wiki/Deindustrialization),
 [Design](https://en.wikipedia.org/wiki/Design),
 [Detectives](https://en.wikipedia.org/wiki/Detective_fiction),
+[Deterritorialization](https://en.wikipedia.org/wiki/Deterritorialization),
+[Détournement](https://en.wikipedia.org/wiki/D%C3%A9tournement),
 [Devotion](https://en.wikipedia.org/wiki/Worship),
 [Dialectics](https://en.wikipedia.org/wiki/Thesis,_antithesis,_synthesis),
+[Diagrams](https://en.wikipedia.org/wiki/Diagram),
 [Dictionaries](https://en.wikipedia.org/wiki/Dictionary),
 [Difference](https://en.wikipedia.org/wiki/Difference_(philosophy)),
 [Difficulty](https://en.wikipedia.org/wiki/Degree_of_difficulty),
@@ -197,6 +204,7 @@ permalink: /interests/
 [Extremophiles](https://en.wikipedia.org/wiki/Extremophile)
 
 **F /**
+[Failure](https://en.wikipedia.org/wiki/Failure),
 [Fantasy](https://en.wikipedia.org/wiki/Fantasy),
 [Feudalism](https://en.wikipedia.org/wiki/Feudalism),
 [Fields](https://en.wikipedia.org/wiki/Field_theory_(sociology)),
@@ -213,6 +221,7 @@ permalink: /interests/
 [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
 
 **G /**
+
 [Games](https://en.wikipedia.org/wiki/Game),
 [Genealogy¹](https://en.wikipedia.org/wiki/Genealogy),
 [Genealogy²](https://en.wikipedia.org/wiki/Genealogy_(philosophy)),
@@ -224,6 +233,9 @@ permalink: /interests/
 [Gothic Fiction](https://en.wikipedia.org/wiki/Gothic_fiction),
 [Governance](https://en.wikipedia.org/wiki/Governance),
 [Governmentality](https://en.wikipedia.org/wiki/Governmentality),
+[Grammar](https://en.wikipedia.org/wiki/Grammar),
+[Grammatology](https://en.wikipedia.org/wiki/Graphemics),
+[Groundings](https://www.versobooks.com/blogs/news/4351-the-revolutionary-legacy-of-walter-rodney-s-groundings),
 [Groups](https://en.wikipedia.org/wiki/Group_theory),
 [Guild Socialism](https://en.wikipedia.org/wiki/Guild_socialism),
 [Gymnastics](https://en.wikipedia.org/wiki/Gymnastics)
@@ -231,6 +243,7 @@ permalink: /interests/
 **H /**
 [Habit](https://en.wikipedia.org/wiki/Habit),
 [Habitat](https://en.wikipedia.org/wiki/Habitat),
+[Happenings](https://en.wikipedia.org/wiki/Happening),
 [Haptics](https://en.wikipedia.org/wiki/Haptic_perception),
 [Hardiness Zones](https://en.wikipedia.org/wiki/Hardiness_zone),
 [Hardware](https://en.wikipedia.org/wiki/Hardware),
@@ -283,6 +296,8 @@ permalink: /interests/
 [International Development](https://en.wikipedia.org/wiki/International_development),
 [International Relations](https://en.wikipedia.org/wiki/International_relations),
 [Internationalism](https://en.wikipedia.org/wiki/Internationalism_(politics)),
+[Internet](https://en.wikipedia.org/wiki/Internet),
+[Internet Backbone](https://en.wikipedia.org/wiki/Internet_backbone),
 [Interstellar Travel](https://en.wikipedia.org/wiki/Interstellar_travel),
 [Intuition](https://en.wikipedia.org/wiki/Intuition),
 [Investigation](https://en.wikipedia.org/wiki/Investigation),
@@ -322,7 +337,8 @@ permalink: /interests/
 [Logistics](https://en.wikipedia.org/wiki/Logistics),
 [Lojban](https://en.wikipedia.org/wiki/Lojban),
 [Low Technology](https://en.wikipedia.org/wiki/Low_technology),
-[Lyric](https://en.wikipedia.org/wiki/Lyric_poetry)
+[Lyric Games](https://zenodo.org/records/4824078),
+[Lyric Poetry](https://en.wikipedia.org/wiki/Lyric_poetry)
 
 **M /**
 [Machines](https://en.wikipedia.org/wiki/Machine),
@@ -407,6 +423,7 @@ permalink: /interests/
 [Ontogenesis](https://parrhesiajournal.org/parrhesia07/parrhesia07_simondon1.pdf),
 [Ontology](https://en.wikipedia.org/wiki/Ontology),
 [Opacity](https://en.wikipedia.org/wiki/Opacity),
+[Open Source Ecology](https://www.opensourceecology.org/),
 [Operations](https://en.wikipedia.org/wiki/Operation),
 [Optics](https://en.wikipedia.org/wiki/Optics),
 [Orality](https://en.wikipedia.org/wiki/Orality),
@@ -426,6 +443,7 @@ permalink: /interests/
 [Pentecostalism](https://en.wikipedia.org/wiki/Pentecostalism),
 [Perception](https://en.wikipedia.org/wiki/Perception),
 [Performance](https://en.wikipedia.org/wiki/Performance),
+[Performance Art](https://en.wikipedia.org/wiki/Performance_art),
 [Performativity](https://en.wikipedia.org/wiki/Performativity),
 [Permacomputing](https://permacomputing.net/),
 [Permaculture](https://en.wikipedia.org/wiki/Permaculture),
@@ -499,10 +517,12 @@ permalink: /interests/
 [Radicalism](https://en.wikipedia.org/wiki/Classical_radicalism),
 [Radio](https://en.wikipedia.org/wiki/Radio),
 [Ramnulfids](https://en.wikipedia.org/wiki/Ramnulfids),
+[Rasanblaj](https://hemisphericinstitute.org/en/emisferica-121-caribbean-rasanblaj.html),
 [Reading](https://en.wikipedia.org/wiki/Reading),
 [Realism](https://en.wikipedia.org/wiki/Realism_(art_movement)),
 [Reality](https://en.wikipedia.org/wiki/Reality),
 [Reconnaissance](https://en.wikipedia.org/wiki/Reconnaissance),
+[Recipes](https://en.wikipedia.org/wiki/Recipe),
 [Reification](https://en.wikipedia.org/wiki/Reification_(Marxism)),
 [Relativity](https://en.wikipedia.org/wiki/Theory_of_relativity),
 [Religion](https://en.wikipedia.org/wiki/Religion),
@@ -523,6 +543,8 @@ permalink: /interests/
 [Sabotage](https://en.wikipedia.org/wiki/Sabotage),
 [Satellite Systems](https://en.wikipedia.org/wiki/Satellite_system_(astronomy)),
 [Satellites](https://en.wikipedia.org/wiki/Satellite),
+[Scenography](https://en.wikipedia.org/wiki/Scenography),
+[Schematics](https://en.wikipedia.org/wiki/Schematic),
 [Scholasticism](https://en.wikipedia.org/wiki/Scholasticism),
 [Science](https://en.wikipedia.org/wiki/Science),
 [Science and Technology Studies](https://en.wikipedia.org/wiki/Science_and_technology_studies),
@@ -537,13 +559,16 @@ permalink: /interests/
 [Sensorium](https://en.wikipedia.org/wiki/Sensorium),
 [Set Theory](https://en.wikipedia.org/wiki/Set_theory),
 [Signals](https://en.wikipedia.org/wiki/Signal),
+[Situationism](https://en.wikipedia.org/wiki/Situationist_International),
 [Skill](https://en.wikipedia.org/wiki/Skill),
+[Slow Cinema](https://en.wikipedia.org/wiki/Slow_cinema),
 [Soccer](https://en.wikipedia.org/wiki/Association_football),
 [Social Reproduction](https://en.wikipedia.org/wiki/Social_reproduction),
 [Socialism](https://en.wikipedia.org/wiki/Socialism),
 [Sociology](https://en.wikipedia.org/wiki/Sociology),
 [Software](https://en.wikipedia.org/wiki/Software),
 [Solar Power](https://en.wikipedia.org/wiki/Solar_power),
+[Somatic Poetry](https://www.poetryfoundation.org/poems/159376/introduction-to-somatic-poetry-rituals)
 [Soul](https://en.wikipedia.org/wiki/Soul),
 [Sovereignty](https://en.wikipedia.org/wiki/Sovereignty),
 [Space](https://en.wikipedia.org/wiki/Outer_space),
@@ -560,6 +585,7 @@ permalink: /interests/
 [Study](https://en.wikipedia.org/wiki/Study_(art)),
 [Stylistics](https://en.wikipedia.org/wiki/Stylistics),
 [Subjectivity](https://en.wikipedia.org/wiki/Subjectivity_and_objectivity_(philosophy)),
+[Subjectivization](https://en.wiktionary.org/wiki/subjectivization),
 [Surveillance](https://en.wikipedia.org/wiki/Surveillance),
 [Survival](https://en.wikipedia.org/wiki/Survival),
 [Sustainability](https://en.wikipedia.org/wiki/Sustainability),
@@ -602,6 +628,9 @@ permalink: /interests/
 [Universities](https://en.wikipedia.org/wiki/University),
 [Urbanature](https://blogs.dickinson.edu/urbanaturalroosting/),
 [Urbanism](https://en.wikipedia.org/wiki/Urbanism),
+[Use](https://en.wiktionary.org/wiki/%CF%87%CF%81%E1%BF%86%CF%83%CE%B9%CF%82),
+[Users](https://en.wikipedia.org/wiki/User_(computing)),
+[Utilities](https://en.wikipedia.org/wiki/Public_utility),
 [Utopias](https://en.wikipedia.org/wiki/Utopia)
 
 **V /**
@@ -631,6 +660,7 @@ permalink: /interests/
 [Workerism](https://en.wikipedia.org/wiki/Workerism),
 [World](https://en.wikipedia.org/wiki/World),
 [World-Systems Theory](https://en.wikipedia.org/wiki/World-systems_theory),
+[World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web),
 [Worldbuilding](https://en.wikipedia.org/wiki/Worldbuilding),
 [Writing](https://en.wikipedia.org/wiki/Writing)
 
