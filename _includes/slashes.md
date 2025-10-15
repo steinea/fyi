@@ -1,6 +1,6 @@
 These are my [Slash Pages](https://slashpages.net/), my human-readable sitemap:
 
-> [About](/about/), [AI](/ai/), [Blank](/blank/), [Blogroll](/blogroll/), Changes, [Colophon](/colophon/), [Commitments](/commitments/), Death, [Defaults](/defaults/), [Elsewhere](/elsewhere/), [Favourites](/favourites/), Follow, [Guy](/guy/), Hello, [Hosted](/hosted/), How, Ideas, [Interests](/interests/), Linkroll, Never, Next, [Nope](/nope/), [Now](/now/), [Podroll](/podroll/), [Postroll](/postroll/), [Preferences](/preferences/), [Questions](/questions/), Shoebox, [Slashes](/slashes/), Someday, Tip, Tuberoll, [Verify](/verify/), Uses, Who, [What](/what/), [When](/when/), [Where](/where/), Why, Wish, [Yep](/yep/)
+> [About](/about/), [AI](/ai/), [Blank](/blank/), [Blogroll](/blogroll/), Changes, [Colophon](/colophon/), [Commitments](/commitments/), Death, [Defaults](/defaults/), [Elsewhere](/elsewhere/), [Favourites](/favourites/), Follow, [Guy](/guy/), Hello, [Hosted](/hosted/), How, Ideas, [Interests](/interests/), [Linkroll](https://www.steinea.xyz/stream/), Never, Next, [Nope](/nope/), [Now](/now/), [Podroll](/podroll/), [Postroll](/postroll/), [Preferences](/preferences/), [Questions](/questions/), Shoebox, [Slashes](/slashes/), Someday, Tip, Tuberoll, [Verify](/verify/), Uses, Who, [What](/what/), [When](/when/), [Where](/where/), Why, Wish, [Yep](/yep/)
 
 
 <!-- To consider

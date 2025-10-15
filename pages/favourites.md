@@ -152,4 +152,4 @@ redirect_from:
 [Vampire Survivors](https://en.wikipedia.org/wiki/Vampire_Survivors "poncle 2022"),
 [Hollow Knight: Silksong](https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong "Team Cherry 2025")
 
-*Related to [Interests](/interests/), [Preferences](/preferences/).*
+*Related to [Interests](https://steinea.xyz/interests/), [Preferences](/preferences/).*

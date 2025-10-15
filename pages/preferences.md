@@ -20,4 +20,4 @@ permalink: /preferences/
 * [Milwaukee](https://en.wikipedia.org/wiki/Milwaukee_Tool)
 * [Honda](https://en.wikipedia.org/wiki/Honda), [Mazda](https://en.wikipedia.org/wiki/Mazda)
 
-*Related to [Favourites](/favourites/), [Interests](/interests/).*
+*Related to [Favourites](/favourites/), [Interests](https://steinea.xyz/interests/).*
