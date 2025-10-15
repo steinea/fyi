@@ -11,7 +11,8 @@ redirect_from:
 [Star Wars: The Clone Wars](https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars "Lucas 2008"),
 [Knights of Sidonia](https://en.wikipedia.org/wiki/Knights_of_Sidonia "Shizuno 2014"),
 [She Ra and the Princesses of Power](https://en.wikipedia.org/wiki/She-Ra_and_the_Princesses_of_Power "Stevenson 2018"),
-[Mobile Suit Gundam: The Witch from Mercury](https://en.wikipedia.org/wiki/Mobile_Suit_Gundam:_The_Witch_from_Mercury "Yatate and Tomino 2022")
+[Mobile Suit Gundam: The Witch from Mercury](https://en.wikipedia.org/wiki/Mobile_Suit_Gundam:_The_Witch_from_Mercury "Yatate and Tomino 2022"),
+[Scavengers Reign](https://en.wikipedia.org/wiki/Scavengers_Reign "Bennett and Huettner 2023")
 
 **Board Games /**
 [Dominion](https://en.wikipedia.org/wiki/Dominion_(card_game) "Vaccarino 2008"),
@@ -110,7 +111,8 @@ redirect_from:
 [Slow Horses](https://en.wikipedia.org/wiki/Slow_Horses "Apple TV+ 2022"),
 [Beef](https://en.wikipedia.org/wiki/Beef_(TV_series) "Netflix 2023"),
 [Shogun](https://en.wikipedia.org/wiki/Sh%C5%8Dgun_(2024_TV_series) "FX 2024"),
-[Masters of the Air](https://en.wikipedia.org/wiki/Masters_of_the_Air "Apple TV+ 2024")
+[Masters of the Air](https://en.wikipedia.org/wiki/Masters_of_the_Air "Apple TV+ 2024"),
+[True Detective: Night Country](https://en.wikipedia.org/wiki/True_Detective_season_4 "HBO 2024")
 
 **Theatre /**
 [King Lear](https://en.wikipedia.org/wiki/King_Lear "Shakespeare 1605"),
@@ -146,6 +148,7 @@ redirect_from:
 [The Last of Us Part II](https://en.wikipedia.org/wiki/The_Last_of_Us_Part_II "Naughty Dog 2020"),
 [Umurangi Generation](https://en.wikipedia.org/wiki/Umurangi_Generation "Origame Digital 2020"),
 [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring "FromSoftware 2022"),
+[Immortality](https://en.wikipedia.org/wiki/Immortality_(video_game)),
 [Vampire Survivors](https://en.wikipedia.org/wiki/Vampire_Survivors "poncle 2022"),
 [Hollow Knight: Silksong](https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong "Team Cherry 2025")
 
