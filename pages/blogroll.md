@@ -20,7 +20,9 @@ permalink: /blogroll/
 * [New York Review of Books](https://www.nybooks.com/)
 * [No Escape](https://noescapevg.com/)
 * [Quanta Magazine](https://www.quantamagazine.org/)
+* [Scientific American](https://www.scientificamerican.com/)
 * [Terence Blake](https://terenceblake.wordpress.com/)
+* [Wired](https://www.wired.com/)
 
 *To do: Add [OPML](https://opml.org/spec2.opml), [XFN](https://gmpg.org/xfn/11) markup.*
 
