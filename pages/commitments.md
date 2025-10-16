@@ -19,6 +19,7 @@ redirect_from:
 * [The continuum is always the same.](https://monoskop.org/images/b/b3/Eco_Umberto_Semiotics_and_the_Philosophy_of_Language_1986.pdf "Eco 1984, p. 44")
 * [Mathematics is ontology.](https://www.bloomsbury.com/ca/being-and-event-9781441137685/ "Badiou 1988, p. 4")
 * [There are only bodies and languages, except that there are truths.](https://www.lacan.com/badbodies.htm "Badiou 2006")
+* [Modern science has not found its metaphysics.](https://books.google.ca/books?id=uL9NEAAAQBAJ&pg=PA39 "Deleuze 2007")
 * [Games are for everyone.](https://weheart.github.io/ "Zecher 2014")
 * [Everything is material.](https://www.versobooks.com/en-ca/products/192-the-exform "Bourriaud 2015, 7")
 * [Everything is right here.](https://www.versobooks.com/en-ca/products/192-the-exform "Bourriaud 2015, 21")
