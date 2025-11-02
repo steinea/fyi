@@ -1,6 +1,7 @@
 ---
 layout: nothing
-permalink: /blank/
+category: slash
+title: Blank
 ---
 
 <!--

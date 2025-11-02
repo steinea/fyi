@@ -1,7 +1,7 @@
 ---
 layout: default
+category: slash
 title: What
-permalink: /what/
 ---
 
 * My domain is [Eukarya](https://en.wikipedia.org/wiki/Eukaryote)

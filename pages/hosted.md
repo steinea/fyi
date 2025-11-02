@@ -1,7 +1,7 @@
 ---
 layout: default
+category: slash
 title: Hosted
-permalink: /hosted/
 ---
 
 * Home Assistant on a [Home Assistant Yellow](https://ameridroid.com/products/home-assistant-yellow)

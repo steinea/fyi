@@ -1,7 +1,7 @@
 ---
 layout: default
+category: slash
 title: Where
-permalink: /where/
 ---
 
 * My filament is the [Pisces-Cetus Supercluster Complex](https://en.wikipedia.org/wiki/Pisces%E2%80%93Cetus_Supercluster_Complex)

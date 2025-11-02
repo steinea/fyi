@@ -1,7 +1,7 @@
 ---
 layout: default
+category: slash
 title: AI
-permalink: /ai/
 redirect_from:
   - /robots/
 ---

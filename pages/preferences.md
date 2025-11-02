@@ -1,7 +1,7 @@
 ---
 layout: default
+category: slash
 title: Preferences
-permalink: /preferences/
 ---
 
 * [Autumn](https://en.wikipedia.org/wiki/Autumn), [September](https://en.wikipedia.org/wiki/September)

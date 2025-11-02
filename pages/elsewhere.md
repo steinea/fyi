@@ -1,7 +1,7 @@
 ---
 layout: default
+category: slash
 title: Elsewhere
-permalink: /elsewhere/
 ---
 
 * [Ancillary Review of Books](https://ancillaryreviewofbooks.org/author/steinea/)

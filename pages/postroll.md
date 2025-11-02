@@ -1,7 +1,7 @@
 ---
 layout: default
+category: slash
 title: Postroll
-permalink: /postroll/
 ---
 
 * "[Between Peasants](https://theanarchistlibrary.org/library/errico-malatesta-between-peasants "Malatesta 1884")"

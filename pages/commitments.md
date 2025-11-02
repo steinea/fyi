@@ -1,7 +1,7 @@
 ---
 layout: default
+category: slash
 title: Commitments
-permalink: /commitments/
 redirect_from:
   - /hills/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
+category: slash
 title: Podroll
-permalink: /podroll/
 ---
 
 * [A More Civilized Age](https://amorecivilizedage.net/)

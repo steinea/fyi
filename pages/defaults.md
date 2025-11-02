@@ -1,7 +1,7 @@
 ---
 layout: default
+category: slash
 title: Defaults
-permalink: /defaults/
 ---
 
 * [Everything](https://www.voidtools.com/)

@@ -1,7 +1,7 @@
 ---
 layout: default
+category: slash
 title: Questions
-permalink: /questions/
 ---
 
 * [Why is there something rather than nothing?](https://archive.org/details/philosophicalwor00leibuoft/page/212/mode/2up?view=theater&q=209 "Leibniz 1714")

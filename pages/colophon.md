@@ -1,7 +1,7 @@
 ---
 layout: default
+category: slash
 title: Colophon
-permalink: /colophon/
 ---
 
 {% include colophon.md %}

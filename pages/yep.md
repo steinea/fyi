@@ -1,7 +1,7 @@
 ---
 layout: default
+category: slash
 title: Yep
-permalink: /yep/
 ---
 
 * Heights

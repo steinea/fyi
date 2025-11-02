@@ -1,7 +1,7 @@
 ---
 layout: default
+category: slash
 title: Blogroll
-permalink: /blogroll/
 ---
 
 * [Alexander R. Galloway](https://cultureandcommunication.org/galloway/)

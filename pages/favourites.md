@@ -1,7 +1,7 @@
 ---
 layout: default
+category: slash
 title: Favourites
-permalink: /favourites/
 redirect_from:
   - /canon/
 ---

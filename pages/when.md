@@ -1,7 +1,7 @@
 ---
 layout: default
+category: slash
 title: When
-permalink: /when/
 ---
 
 * My eon is the [Phanerozoic](https://en.wikipedia.org/wiki/Phanerozoic)

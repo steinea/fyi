@@ -1,7 +1,7 @@
 ---
 layout: default
+category: slash
 title: Verify
-permalink: /verify/
 ---
 
 {% include verify.md %}
