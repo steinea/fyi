@@ -32,6 +32,7 @@ redirect_from:
 [Stalker](https://en.wikipedia.org/wiki/Stalker_(1979_film) "Tarkovsky 1979"),
 [Full Metal Jacket](https://en.wikipedia.org/wiki/Full_Metal_Jacket "Kubrick 1987"),
 [Apollo 13](https://en.wikipedia.org/wiki/Apollo_13_(film) "Howard 1995"),
+[Saving Private Ryan](https://en.wikipedia.org/wiki/Saving_Private_Ryan "Spielberg 1998"),
 [Children of Men](https://en.wikipedia.org/wiki/Children_of_Men "Cuarón 2006"),
 [Sunshine](https://en.wikipedia.org/wiki/Sunshine_(2007_film) "Boyle 2007"),
 [The Raid](https://en.wikipedia.org/wiki/The_Raid_(2011_film) "Evans 2011"),
