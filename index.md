@@ -1,8 +1,10 @@
 ---
 layout: default
-title: FYI
+title: "Eric Stein / Identity"
 permalink: /
 ---
+
+#### About
 
 {% include about.html %}
 
