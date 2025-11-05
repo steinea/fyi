@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Eric Stein / Identity"
+title: Eric Stein 🔎
 permalink: /
 ---
 
