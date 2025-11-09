@@ -17,6 +17,7 @@ redirect_from:
 * [There has never been anything but writing.](https://monoskop.org/images/8/8e/Derrida_Jacques_Of_Grammatology_1998.pdf "Derrida 1967, 159")
 * [The unconscious is a factory, not a theatre.](https://files.libcom.org/files/Anti-Oedipus.pdf "Deleuze and Guattari 1972, p. 22ff")
 * [The continuum is always the same.](https://monoskop.org/images/b/b3/Eco_Umberto_Semiotics_and_the_Philosophy_of_Language_1986.pdf "Eco 1984, p. 44")
+* [All intelligence is equal.](https://en.wikipedia.org/wiki/The_Ignorant_Schoolmaster "Rancière 1987, p. 46")
 * [Mathematics is ontology.](https://www.bloomsbury.com/ca/being-and-event-9781441137685/ "Badiou 1988, p. 4")
 * [There are only bodies and languages, except that there are truths.](https://www.lacan.com/badbodies.htm "Badiou 2006")
 * [Modern science has not found its metaphysics.](https://books.google.ca/books?id=uL9NEAAAQBAJ&pg=PA39 "Deleuze 2007")
