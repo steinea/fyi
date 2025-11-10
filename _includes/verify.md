@@ -50,14 +50,14 @@ I control and have [claimed](https://keyoxide.org/B5B0AA7ED4509C8B "Keyoxide") t
 
 <blockquote>
   <a href="https://archive.org/details/@steinea" class="u-url" rel="me">Archive</a>,
-  Atlassian,
+  <a href="https://community.atlassian.com/user/profile/3e959bf5-2100-4fbc-96c0-c42a9fc50c63" class="u-url" rel="me">Atlassian</a>,
   <a href="https://www.backloggd.com/u/steinea/" class="u-url" rel="me">Backloggd</a>,
   <a href="https://bsky.app/profile/steinea.bsky.social" class="u-url" rel="me">Bluesky</a>,
   <a href="https://boardgamegeek.com/user/steinea/" class="u-url" rel="me">BoardGameGeek</a>,
   <a href="https://bookwyrm.social/user/steinea/books" class="u-url" rel="me">Bookwyrm</a>,
   <a href="https://codeberg.org/steinea" class="u-url" rel="me">Codeberg</a>,
   <a href="https://cohost.org/steinea" class="u-url" rel="me">Cohost</a>,
-  Credly,
+  <a href="https://www.credly.com/users/steinea" class="u=url" rel="me">Credly</a>,
   <a href="https://www.discogs.com/user/steinea/collection" class="u-url" rel="me">Discogs</a>,
   <a href="https://discordapp.com/users/steinea" class="u-url" rel="me">Discord</a>,
   <a href="https://www.exophase.com/user/steinea/" class="u-url" rel="me">Exophase</a>,
