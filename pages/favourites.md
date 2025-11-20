@@ -121,14 +121,19 @@ redirect_from:
 [Saint Joan](https://en.wikipedia.org/wiki/Saint_Joan_(play) "Shaw 1923")
 
 **TTRPGs /**
+[The Quiet Year](https://buriedwithoutceremony.com/the-quiet-year "Alder 2013"),
 [Into the Odd](https://freeleaguepublishing.com/games/into-the-odd/ "McDowall 2015"),
+[The Skeletons](https://bullypulpitgames.com/products/the-skeletons "Morningstar 2016")
+[Dream Askew / Dream Apart](https://store.buriedwithoutceremony.com/products/dream-askew-dream-apart "Alder and Rosenbaum 2018",)
 [Ultraviolet Grasslands](https://www.exaltedfuneral.com/products/uvg-2e "Rejec 2018"),
 [Acid Death Fantasy](https://www.melsonia.com/products/acid-death-fantasy "Gearing 2019"),
 [Through Ultan's Door](https://throughultansdoor.bigcartel.com/ "Laurence 2019"),
+[The Ground Itself](https://everestpipkin.itch.io/the-ground-itself "Pipkin 2019")
 [Electric Bastionland](https://modiphius.net/products/electric-bastionland "McDowall 2020"),
 [Vaults of Vaarn](https://vaultsofvaarn.com/ "Hunt 2020"),
 [Trophy](https://trophyrpg.com/ "Ross 2021"),
 [Electrum Archive](https://www.electrumarchive.com/ "Boven 2022"),
+[World Ending Game](https://everestpipkin.itch.io/world-ending-game "Pipkin 2022"),
 [Cloud Empress](https://cloudempress.com/ "Watt 2023"),
 [Yazeba's Bed and Breakfast](https://possumcreekgames.com/en-ca/pages/yazebas-bed-breakfast "Dragon 2023"),
 [Realis](https://thecalcutec.itch.io/realis "Walker 2025")
