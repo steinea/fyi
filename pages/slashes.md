@@ -1,10 +1,10 @@
 ---
 layout: default
+category: slash
 title: Slashes
-permalink: /slashes/
 ---
 
-{% include slashes.md %}
+{% include slashes.html %}
 
 You can learn more about slash pages at [slashpages.net](https://slashpages.net/).
 

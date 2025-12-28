@@ -20,15 +20,6 @@ _[Previously...](/about/)_
 <br>
 
 
-#### Journal
-
-*Under construction.*
-
-Built to m15o's [HTML Journal](https://journal.miso.town/) spec.
-
-<br>
-
-
 #### Now
 
 {% include now.html %}
@@ -40,7 +31,7 @@ _[Previously...](/now/)_
 
 #### Slashes
 
-{% include slashes.md %}
+{% include slashes.html %}
 
 <br>
 

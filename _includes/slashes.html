@@ -1,0 +1,18 @@
+These are my [Slash Pages](https://slashpages.net/), my human-readable sitemap:
+
+<blockquote>
+{% for page in site.pages %}
+  {% if page.category contains "slash" %}
+    <a href="{{ page.url }}">{{ page.title }}</a>{% unless forloop.last %}, {% endunless %}
+    <!-- Something is broken with this unless, comma appears at end of list still -->
+  {% endif %}
+{% endfor %}
+</blockquote>
+
+<!--
+  Robots redirects to AI
+  Hills redirects to Commitments
+  Canon redirects to Favourites
+  Posse redirects to Hosted
+  Chipotle redirects to Preferences
+-->
