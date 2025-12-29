@@ -31,9 +31,10 @@ I control and have [claimed](https://keyoxide.org/B5B0AA7ED4509C8B "Keyoxide") t
 
 <blockquote>
   <a href="https://bsky.app/profile/steinea.bsky.social/post/3ledxqrloyk24" class="u-url" rel="me">Bluesky</a>,
-  <a href="https://codeberg.org/steinea" class="u-url" rel="me">Codeberg</a>,
+  <a href="https://codeberg.org/steinea/keyoxide_proof" class="u-url" rel="me">Codeberg</a>,
   <a href="https://gist.github.com/steinea/9e8fc52ce00b8923ca5df19285e5c449" class="u-url" rel="me">GitHub</a>,
   <a href="https://gitlab.com/steinea/gitlab_proof" class="u-url" rel="me">GitLab</a>,
+  <a href="https://keyoxide.org/B5B0AA7ED4509C8B" class="u-url" rel="me">Keyoxide</a>,
   Liberapay,
   <a href="https://assemblag.es/@steinea" class="u-url" rel="me">Mastodon</a>,
   <a href="https://keys.openpgp.org/search?q=ECEDBC433379CF13E2534C29B5B0AA7ED4509C8B" class="u-url" rel="me">OpenPGP</a>,
@@ -52,34 +53,27 @@ I control and have [claimed](https://keyoxide.org/B5B0AA7ED4509C8B "Keyoxide") t
   <a href="https://archive.org/details/@steinea" class="u-url" rel="me">Archive</a>,
   <a href="https://community.atlassian.com/user/profile/3e959bf5-2100-4fbc-96c0-c42a9fc50c63" class="u-url" rel="me">Atlassian</a>,
   <a href="https://www.backloggd.com/u/steinea/" class="u-url" rel="me">Backloggd</a>,
-  <a href="https://bsky.app/profile/steinea.bsky.social" class="u-url" rel="me">Bluesky</a>,
-  <a href="https://boardgamegeek.com/user/steinea/" class="u-url" rel="me">BoardGameGeek</a>,
+  <a href="https://boardgamegeek.com/profile/steinea" class="u-url" rel="me">BoardGameGeek</a>,
   <a href="https://bookwyrm.social/user/steinea/books" class="u-url" rel="me">Bookwyrm</a>,
-  <a href="https://codeberg.org/steinea" class="u-url" rel="me">Codeberg</a>,
-  <a href="https://cohost.org/steinea" class="u-url" rel="me">Cohost</a>,
   <a href="https://www.credly.com/users/steinea" class="u=url" rel="me">Credly</a>,
   <a href="https://www.discogs.com/user/steinea/collection" class="u-url" rel="me">Discogs</a>,
   <a href="https://discordapp.com/users/steinea" class="u-url" rel="me">Discord</a>,
   <a href="https://www.exophase.com/user/steinea/" class="u-url" rel="me">Exophase</a>,
-  <a href="https://github.com/steinea" class="u-url" rel="me">GitHub</a>,
-  <a href="https://gitlab.com/steinea" class="u-url" rel="me">GitLab</a>,
+  <a href="https://figshare.com/authors/Eric_Stein/21583022" class="u-url" rel="me">Figshare</a>,
   <a href="https://www.goodreads.com/review/list/63502745?shelf=read" class="u-url" rel="me">Goodreads</a>,
   <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=7qubWGsAAAAJ&sortby=pubdate" class="u-url" rel="me">Google Scholar</a>,
   <a href="https://howlongtobeat.com/user/steinea" class="u-url" rel="me">HowLongToBeat</a>,
   <a href="https://hsscommons.ca/members/1174/" class="u-url" rel="me">HSS Commons</a>,
   <a href="https://igda.peoplegrove.com/hub/igda/profile/ericstein" class="u-url" rel="me">IGDA</a>,
   <a href="https://indieweb.org/User:Www.steinea.ca" class="u-url" rel="me">IndieWeb</a>,
-  <a href="https://vagrantludology.itch.io" class="u-url" rel="me">itch.io</a>,
+  <a href="https://steinea.itch.io" class="u-url" rel="me">itch.io</a>,
   <a href="https://keybase.io/steinea/" class="u-url" rel="me">Keybase</a>,
-  <a href="https://keyoxide.org/B5B0AA7ED4509C8B" class="u-url" rel="me">Keyoxide</a>,
-  <a href="https://www.kickstarter.com/profile/vagrantludology/created" class="u-url" rel="me">Kickstarter</a>,
+  <a href="https://www.kickstarter.com/profile/steinea/created" class="u-url" rel="me">Kickstarter</a>,
   <a href="https://hcommons.org/members/steinea/" class="u-url" rel="me">Knowledge Commons</a>,
   <a href="https://www.linkedin.com/in/steinea/" class="u-url" rel="me">LinkedIn</a>,
-  <a href="https://assemblag.es/@steinea" class="u-url" rel="me">Mastodon</a>,
   <a href="https://www.mobygames.com/user/948781/steinea/" class="u-url" rel="me">MobyGames</a>,
   <a href="https://www.moxfield.com/users/steinea" class="u-url" rel="me">Moxfield</a>,
-  <a href="https://nownownow.com/p/JwZZ" class="u-url" rel="me">NowNowNow (steinea.ca)</a>,
-  <a href="https://keys.openpgp.org/search?q=ECEDBC433379CF13E2534C29B5B0AA7ED4509C8B" class="u-url" rel="me">OpenPGP</a>,
+  <a href="https://nownownow.com/p/JwZZ" class="u-url" rel="me">NowNowNow</a>,
   <a href="https://osf.io/jy462/" class="u-url" rel="me">OSF</a>,
   <a href="https://philpeople.org/profiles/eric-stein" class="u-url" rel="me">PhilPeople</a>,
   <a href="https://www.projectmanagement.com/profile/steinea" class="u-url" rel="me">Project Management</a>,
@@ -87,17 +81,17 @@ I control and have [claimed](https://keyoxide.org/B5B0AA7ED4509C8B "Keyoxide") t
   <a href="https://rpggeek.com/user/steinea" class="u-url" rel="me">RPGGeek</a>,
   <a href="https://app.thestorygraph.com/profile/steinea" class="u-url" rel="me">StoryGraph</a>,
   <a href="https://www.threads.net/@steinea" class="u-url" rel="me">Threads</a>,
-  <a href="https://twitter.com/steinea" class="u-url" rel="me">Twitter</a>,
   <a href="https://www.twu.ca/profile/eric-stein" class="u-url" rel="me">TWU</a>,
   <a href="https://www.webofscience.com/wos/author/record/NPI-9402-2025" class="u-url" rel="me">Web of Science</a>,
   <a href="https://www.youtube.com/@steinea" class="u-url" rel="me">YouTube</a>,
   <a href="https://www.zotero.org/steinea" class="u-url" rel="me">Zotero</a>
 </blockquote>
 
-<p>Identities I previously controlled but have deleted are listed below. This list provides a reference for formerly canonical links that may still exist online but are no longer accessible.</p>
+<p>Identities I previously controlled but which are no longer extant (due to account deletion, site shutdown, or otherwise) are listed below, so as to provide a reference for formerly canonical links that may persist online.</p>
 
 <blockquote>
-  <a href="https://twu.academia.edu/steinea" class="u-url" rel="me">Academia</a> (<a href="https://bsky.app/profile/steinea.bsky.social/post/3lz77nnugtc2u">deleted</a>)
+  <a href="https://twu.academia.edu/steinea" class="u-url" rel="me">Academia</a> (<a href="https://bsky.app/profile/steinea.bsky.social/post/3lz77nnugtc2u">deleted</a>),
+  <a href="https://cohost.org/steinea" class="u-url" rel="me">Cohost</a> (<a href="https://web.archive.org/web/20241001020435/https://cohost.org/staff/post/7611443-cohost-to-shut-down">shutdown</a>)
 </blockquote>  
 
 <!-- Endpoint link required to for authenticating with IndieAuth from other sites -->
