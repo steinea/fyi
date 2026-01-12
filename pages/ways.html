@@ -1,0 +1,15 @@
+---
+layout: default
+category: slash
+title: Ways
+---
+
+{% assign sorted = site.pages | where: "category", "ways" | sort: "title" %}
+  {% for item in sorted %}
+    <a href="{{ item.url }}">{{ item.title }}</a><br>
+  {% endfor %}
+
+<!-- Other stuff:
+     - Collaboration Cookbook: https://www.collaborationcookbook.com/
+     - Wired Guides: e.g. https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/
+  -->
