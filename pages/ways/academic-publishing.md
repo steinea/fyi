@@ -17,7 +17,7 @@ Steps to publish a paper open source:
 
 *Phase 2*
 1. Add file and record to Zenodo
-2. Add file and record to [KCWorks](https://www.zotero.org/steinea)
+2. Add file and record to [KCWorks](https://hcommons.org/members/steinea/)
 3. Add file and record to [ResearchGate](https://www.researchgate.net/profile/Eric-Stein-4)
 
 *Phase 3*
